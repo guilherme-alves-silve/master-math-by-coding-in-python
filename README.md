@@ -4,18 +4,18 @@ Codes and notebooks based on course [Master Math by Coding in Python](https://ww
 
 ## Chapter completion
 
-[X] Introductions and installations
-[X] Arithmetic
-[ ] Introduction to Sympy and LaTeX
-[X] Python data types
-[ ] Algebra 1
-[ ] Graphing and visualization
-[ ] Algebra 2
-[ ] Graphing conic sections
-[ ] Trigonometry
-[ ] Art from trigonometry
-[ ] Calculus
-[ ] Linear algebra
-[ ] Probabilities and histograms
-[ ] Number theory
-[ ] Bonus section
+- [X] Introductions and installations
+- [X] Arithmetic
+- [ ] Introduction to Sympy and LaTeX
+- [X] Python data types
+- [ ] Algebra 1
+- [ ] Graphing and visualization
+- [ ] Algebra 2
+- [ ] Graphing conic sections
+- [ ] Trigonometry
+- [ ] Art from trigonometry
+- [ ] Calculus
+- [ ] Linear algebra
+- [ ] Probabilities and histograms
+- [ ] Number theory
+- [ ] Bonus section
