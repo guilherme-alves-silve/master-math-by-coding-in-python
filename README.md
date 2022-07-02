@@ -6,7 +6,7 @@ Codes and notebooks based on course [Master Math by Coding in Python](https://ww
 
 - [X] Introductions and installations
 - [X] Arithmetic
-- [ ] Introduction to Sympy and LaTeX
+- [X] Introduction to Sympy and LaTeX
 - [X] Python data types
 - [ ] Algebra 1
 - [ ] Graphing and visualization
