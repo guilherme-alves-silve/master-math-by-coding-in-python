@@ -8,7 +8,7 @@ Codes and notebooks based on course [Master Math by Coding in Python](https://ww
 - [X] Arithmetic
 - [X] Introduction to Sympy and LaTeX
 - [X] Python data types
-- [ ] Algebra 1
+- [X] Algebra 1
 - [ ] Graphing and visualization
 - [ ] Algebra 2
 - [ ] Graphing conic sections
