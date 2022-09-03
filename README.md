@@ -10,7 +10,7 @@ Codes and notebooks based on course [Master Math by Coding in Python](https://ww
 - [X] Python data types
 - [X] Algebra 1
 - [X] Graphing and visualization
-- [ ] Algebra 2
+- [X] Algebra 2
 - [ ] Graphing conic sections
 - [ ] Trigonometry
 - [ ] Art from trigonometry
