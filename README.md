@@ -13,7 +13,7 @@ Codes and notebooks based on course [Master Math by Coding in Python](https://ww
 - [X] Algebra 2
 - [X] Graphing conic sections
 - [X] Trigonometry
-- [ ] Art from trigonometry
+- [X] Art from trigonometry
 - [ ] Calculus
 - [ ] Linear algebra
 - [ ] Probabilities and histograms
