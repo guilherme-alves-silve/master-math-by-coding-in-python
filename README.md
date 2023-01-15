@@ -14,7 +14,7 @@ Codes and notebooks based on course [Master Math by Coding in Python](https://ww
 - [X] Graphing conic sections
 - [X] Trigonometry
 - [X] Art from trigonometry
-- [ ] Calculus
+- [X] Calculus
 - [ ] Linear algebra
 - [ ] Probabilities and histograms
 - [ ] Number theory
