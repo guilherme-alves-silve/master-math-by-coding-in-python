@@ -15,7 +15,7 @@ Codes and notebooks based on course [Master Math by Coding in Python](https://ww
 - [X] Trigonometry
 - [X] Art from trigonometry
 - [X] Calculus
-- [ ] Linear algebra
+- [X] Linear algebra
 - [ ] Probabilities and histograms
 - [ ] Number theory
 - [ ] Bonus section
