@@ -17,5 +17,5 @@ Codes and notebooks based on course [Master Math by Coding in Python](https://ww
 - [X] Calculus
 - [X] Linear algebra
 - [X] Probabilities and histograms
-- [ ] Number theory
+- [X] Number theory
 - [X] Bonus section
